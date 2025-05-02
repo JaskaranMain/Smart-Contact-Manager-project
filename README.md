@@ -12,5 +12,5 @@
 <h3>-AWS for storing data</h3>
 <h3>-Javascript (theme)</h3>
 <h3>-Tailwind CSS (frontend)</h3>
-<h3>-flowbire component (for prebuild component)</h3>
+<h3>-flowbite component (for prebuild component)</h3>
 <h3>-PDF / Excel tools for generating reports</h3>
