@@ -1,4 +1,5 @@
 # Smart-Contact-Manager-project
+
 <h1>Technologies used in Project</h1>
 <h3>-Spring framework</h3>
 <h3>-Spring MVC</h3>
